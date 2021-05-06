@@ -1,9 +1,3 @@
-Project Group 6
------------------
-
-Member 1: Sai Deep Nigidala
-Member 2: Bharath Nekkanti
-
 Project Execution:
 -------------------
 
